@@ -4,7 +4,7 @@ Desafio técnico da criação de uma API Web do [ASP.NET](http://ASP.NET) CORE
 
 Tecnologias utilizadas: [ASP.NET](http://ASP.NET) CORE, ENTITY FRAMEWORK, POSTGRESQL, SWAGGER.
 
-Funcionalidades:Cadastro de Usuario, Login, Depositar valor, Consultar extrato, Transferir valor entre contas.
+Funcionalidades: Cadastro de Usuario, Login, Depositar valor, Consultar extrato, Transferir valor entre contas.
 
 ## INSTRUÇÕES PARA CONEXÃO COM BANCO DE DADOS:
 
